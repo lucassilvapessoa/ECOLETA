@@ -56,8 +56,7 @@ Ecoleta é um projeto que visa ajudar pessoas a encontrarem pontos de coleta de 
 This project was developed with the following technologies:
 <br>
 
-- ✔️ Typescript
-<br>
+
 - ✔️ ReactJS
 <br>
 
